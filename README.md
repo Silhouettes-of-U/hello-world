@@ -1,5 +1,3 @@
 # hello-world
 Begin a repository
-I don't understand what to do with the Github.
-I hope you can help me in Python and R cuz I need to deal with the data.
-Nothing serious
+In case I don't see you anymore, good afternoon, good evening and good night.
